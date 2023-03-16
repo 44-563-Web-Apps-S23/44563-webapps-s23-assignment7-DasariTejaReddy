@@ -2,7 +2,7 @@
 An assignment on java script modifying the DOM and using anonymous callback functions.
 
 Hosted at:
-hunter.html-https://44-563-web-apps-s23.github.io/44563-webapps-s23-assignment7-DasariTejaReddy/
-react.html-https://44-563-web-apps-s23.github.io/44563-webapps-s23-assignment7-DasariTejaReddy/
-delayqhtml-https://44-563-web-apps-s23.github.io/44563-webapps-s23-assignment7-DasariTejaReddy/
+https://44-563-web-apps-s23.github.io/44563-webapps-s23-assignment7-DasariTejaReddy/hunter.html
+https://44-563-web-apps-s23.github.io/44563-webapps-s23-assignment7-DasariTejaReddy/react.html
+https://44-563-web-apps-s23.github.io/44563-webapps-s23-assignment7-DasariTejaReddy/delayq.html
 
